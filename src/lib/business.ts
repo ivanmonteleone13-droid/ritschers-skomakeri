@@ -96,6 +96,7 @@ export const business = {
       note: "Kontakta oss för rådgivning.",
     },
   ],
+  logoImage: null as string | null,
   heroImage: "/images/hero.jpg",
   aboutImage: "/images/gallery-1.jpg",
   gallery: [
